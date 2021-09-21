@@ -1,1 +1,1 @@
-!(index.jpg)
+![index](index.jpg)
